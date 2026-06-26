@@ -115,7 +115,9 @@ para modificar ligeramente el color del fondo cada vez que aparece una nueva par
 Esto hace que la experiencia visual sea un poco diferente en cada clic.
 
 ## Diagrama de flujo
-<img width="1408" height="768" alt="Gemini_Generated_Image_fcigusfcigusfcig" src="https://github.com/user-attachments/assets/8d6476ee-529f-4e29-8f86-1c10bc635040" />
+
+<img width="985" height="542" alt="Captura de pantalla 2026-06-26 000822" src="https://github.com/user-attachments/assets/e71ba414-ba76-4ada-8e15-a3c658bfeeb3" />
+
 
 ##links
 
